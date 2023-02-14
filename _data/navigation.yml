@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
     
-  - title: "Portfolio"
-    url: /portfolio/
+ - title: "ACOHEN STAT LAB"
+    url: /research/ 
+    
+  - title: "Publications"
+    url: /publications/  
+ 
+  - title: "Consulting"
+    url: /consulting/
         
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: ""
     url: /markdown/
